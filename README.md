@@ -25,16 +25,23 @@ Each problem set is organized by week and topic, with solutions written in Markd
 
 ---
 
-### How to Use
+## 🎯 Purpose
+This repository is intended to help CS50 students understand problem-solving approaches and coding concepts. Use these solutions as a reference, but always try to solve the problem sets on your own first.
 
+## 🚀 How to Use
 1. Navigate to the problem set you're working on.
 2. Open the `solution.md` file to view the solution and explanations.
 3. Compare your approach with the provided solution to improve your understanding.
 
+## ⚠️ Disclaimer
+This repository is for educational purposes only. Copying solutions without understanding them violates the academic honesty policy of CS50.
+
+## 📜 License
+This repository is licensed under the [MIT License](LICENSE).
+
 ---
 
-### Disclaimer
-This repository is for educational purposes only. Always attempt the problem sets on your own before viewing the solutions. Copying solutions without understanding them violates the academic honesty policy of CS50.
+
 
 ---
 

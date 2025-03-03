@@ -1,4 +1,7 @@
 # CS50x-Problem-Sets
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/198342666?s=96&v=4" />
+</p>
 Welcome to the CS50 Problem Set Solutions repository! This repository is designed to provide clear, concise, and well-documented solutions to the problem sets from Harvard's CS50 course, formatted in Markdown (.md) for easy readability and reference.
 
 Whether you're a CS50 student looking for guidance, a self-learner exploring computer science concepts, or a developer brushing up on fundamentals, this repository aims to be a helpful resource.
@@ -26,7 +29,7 @@ Each problem set is organized by week and topic, with solutions written in Markd
 ---
 
 ## 🎯 Purpose
-This repository is intended to help CS50 students understand problem-solving approaches and coding concepts. Use these solutions as a reference, but always try to solve the problem sets on your own first.
+This repository is designed by /Abdelwahab Ayman Samy & intended to help CS50 students understand problem-solving approaches and coding concepts. Use these solutions as a reference, but always try to solve the problem sets on your own first.
 
 ## 🚀 How to Use
 1. Navigate to the problem set you're working on.
@@ -39,11 +42,5 @@ This repository is for educational purposes only. Copying solutions without unde
 ## 📜 License
 This repository is licensed under the [MIT License](LICENSE).
 
----
+Made with ❤️ by **Abdelwahab Ayman Samy AbuGhaleb**.
 
-
-
----
-
-### License
-This repository is licensed under the [MIT License](LICENSE).

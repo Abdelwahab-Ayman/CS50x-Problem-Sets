@@ -25,4 +25,23 @@ int fact(int x){
 }
 //this is called recursion
 //is iam using for loop it will be
-
+//using loop
+/*int num;
+int i;
+int factorial = 1;
+int main(){
+cout<<"Please enter any number\n";
+cin>>num;
+if(num<0){
+    cout<<"Enter Positive Number\n";
+}else if(num==0){
+    cout<<"Factorial of 0 is "<<factorial;
+}else{
+    for(i = 1; i<=num; ++i){
+        factorial *=i;
+    }
+    cout<<"factorial of number is "<<factorial;
+}
+return 0;
+}
+*/
